@@ -1,2 +1,2 @@
-#car-rental
+# car-rental-hibernate
 SIMPLE JAVA2EE APP WITH SERVLET + HIBERNATE
