@@ -1,0 +1,67 @@
+a:hover {
+    text-decoration:none;
+    color:red;
+}
+
+@media (min-width: 768px) {
+    .navbar-brand.abs {
+        position: absolute;
+        width: 100%;
+        left: 0;
+        text-align: center;
+    }
+}
+
+label {
+    font-weight:bold;
+}
+
+button[type="submit"],
+button[type="reset"]
+{
+    width:25%;
+}
+
+/*input[type="date"]::-webkit-inner-spin-button,*/
+/*input[type="date"]::-webkit-calendar-picker-indicator {*/
+/*    display: none;*/
+/*    -webkit-appearance: none;*/
+/*}*/
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+table, #tableAdmin, #tableCustom {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+#padding {
+
+    padding:25px;
+    background:#d9d9d9;
+    margin:auto;
+    width:50%;
+    position:relative;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+.title {
+    color: blueviolet;
+    font-size: 18px;
+}

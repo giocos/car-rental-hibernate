@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CarRentalHibernate:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45770c35-d2c9-4596-91cc-11be84634d05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="car_rental@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="car_rental@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="car_rental@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="car_rental: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="car_rental@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="car_rental: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mVtzlvIad3oH6DyCCxbmgKRdJD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/CarRentalHibernate_Web_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CarRentalHibernate:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CarRentalHibernate_Web_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CarRentalHibernate" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41037" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CarRentalHibernate:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.11605634" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="car_rental@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45770c35-d2c9-4596-91cc-11be84634d05" name="Default Changelist" comment="" />
+      <created>1609590850092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609590850092</updated>
+      <workItem from="1609590851273" duration="11342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="214" width="800" height="684" key="#Project_Structure" timestamp="1609591973311">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="214" width="800" height="684" key="#Project_Structure/70.27.1850.1053@70.27.1850.1053" timestamp="1609591973311" />
+    <state x="453" y="211" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609592349396">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1609592349396" />
+    <state x="803" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1609610563007">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1609610563007" />
+    <state x="590" y="214" width="800" height="684" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1609591194572">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="214" width="800" height="684" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/70.27.1850.1053@70.27.1850.1053" timestamp="1609591194572" />
+    <state x="590" y="481" width="809" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609590949587">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="481" width="809" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1609590949587" />
+    <state x="505" y="27" width="970" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609604116868">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="505" y="27" width="970" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1609604116868" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1609606640462">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1609606640462" />
+    <state width="1568" height="2" key="GridCell.Tab.0.bottom" timestamp="1609612594225">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594225" />
+    <state width="1568" height="2" key="GridCell.Tab.0.center" timestamp="1609612594224">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594224" />
+    <state width="1568" height="2" key="GridCell.Tab.0.left" timestamp="1609612594223">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594223" />
+    <state width="1568" height="2" key="GridCell.Tab.0.right" timestamp="1609612594224">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594224" />
+    <state width="1568" height="2" key="GridCell.Tab.1.bottom" timestamp="1609612594080">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594080" />
+    <state width="1568" height="2" key="GridCell.Tab.1.center" timestamp="1609612594079">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594079" />
+    <state width="1568" height="2" key="GridCell.Tab.1.left" timestamp="1609612594078">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594078" />
+    <state width="1568" height="2" key="GridCell.Tab.1.right" timestamp="1609612594079">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594079" />
+    <state width="1568" height="2" key="GridCell.Tab.2.bottom" timestamp="1609612594082">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.2.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594082" />
+    <state width="1568" height="2" key="GridCell.Tab.2.center" timestamp="1609612594081">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.2.center/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594081" />
+    <state width="1568" height="2" key="GridCell.Tab.2.left" timestamp="1609612594080">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.2.left/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594080" />
+    <state width="1568" height="2" key="GridCell.Tab.2.right" timestamp="1609612594081">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1568" height="2" key="GridCell.Tab.2.right/70.27.1850.1053@70.27.1850.1053" timestamp="1609612594081" />
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1609592195620">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1609592195620" />
+    <state x="714" y="199" width="552" height="715" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1609592494144">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="714" y="199" width="552" height="715" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1609592494144" />
+    <state x="568" y="201" width="844" height="711" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1609592216984">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="568" y="201" width="844" height="711" key="com.intellij.javaee.view.ServerArtifactsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1609592216984" />
+    <state x="640" y="292" width="869" height="522" key="find.popup" timestamp="1609611479515">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="640" y="292" width="869" height="522" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1609611479515" />
+    <state x="304" y="243" width="1372" height="627" key="new project wizard" timestamp="1609591864735">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="304" y="243" width="1372" height="627" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1609591864735" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1609609734427">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1609609734427" />
+  </component>
+</project>
