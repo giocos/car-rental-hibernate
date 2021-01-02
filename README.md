@@ -1,1 +1,1 @@
-#simple java2ee app with servlet + hibernate
+simple java2ee app with servlet + hibernate
