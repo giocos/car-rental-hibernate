@@ -1,1 +1,2 @@
-simple java2ee app with servlet + hibernate
+#car-rental
+SIMPLE JAVA2EE APP WITH SERVLET + HIBERNATE
